@@ -1,0 +1,4 @@
+C:/Users/jakub/OneDrive/Pulpit/pamsiijakubmichalak/Algorytmy sortowania/cmake-build-debug/CMakeFiles/test_sorting_algorithms.dir
+C:/Users/jakub/OneDrive/Pulpit/pamsiijakubmichalak/Algorytmy sortowania/cmake-build-debug/CMakeFiles/efficiency_tests.dir
+C:/Users/jakub/OneDrive/Pulpit/pamsiijakubmichalak/Algorytmy sortowania/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jakub/OneDrive/Pulpit/pamsiijakubmichalak/Algorytmy sortowania/cmake-build-debug/CMakeFiles/rebuild_cache.dir

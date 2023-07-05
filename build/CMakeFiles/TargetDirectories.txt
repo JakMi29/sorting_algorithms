@@ -1,0 +1,4 @@
+/home/magda/studenci/PAMSI2023/pamsi/PAMSISortowanie/build/CMakeFiles/rebuild_cache.dir
+/home/magda/studenci/PAMSI2023/pamsi/PAMSISortowanie/build/CMakeFiles/test_sorting_algorithms.dir
+/home/magda/studenci/PAMSI2023/pamsi/PAMSISortowanie/build/CMakeFiles/efficiency_tests.dir
+/home/magda/studenci/PAMSI2023/pamsi/PAMSISortowanie/build/CMakeFiles/edit_cache.dir
